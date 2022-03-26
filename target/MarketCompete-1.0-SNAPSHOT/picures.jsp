@@ -12,10 +12,8 @@
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script src="css/bootstrap.min.css"></script>
     <script src="js/bootstrap.min.js"></script>
+    <title>我的起源</title>
 
-    <script>
-
-    </script>
     <style>
         .head{
             width: 100%;
@@ -36,8 +34,10 @@
 </head>
 <body>
 <%@include file="header.jsp" %>
+<div class="container">
+    <div class="row">
 
+    </div>
 </div>
 </body>
 </html>
-

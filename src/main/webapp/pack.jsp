@@ -12,10 +12,8 @@
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script src="css/bootstrap.min.css"></script>
     <script src="js/bootstrap.min.js"></script>
+    <title>我的起源</title>
 
-    <script>
-
-    </script>
     <style>
         .head{
             width: 100%;
@@ -32,11 +30,31 @@
             font-size: 20px;
             padding-right: 10px;
         }
+        .p1{
+            font-size: x-large;
+        }
+        .head{
+            font-size: xx-large;
+        }
+        .history{
+            margin-left:100px ;
+        }
     </style>
 </head>
 <body>
 <%@include file="header.jsp" %>
+<div class="container">
+    <div class="row">
+        <div>
+            <h3 class="head" align="center">
 
+            </h3>
+            <p class="p1">
+
+            </p>
+            <br/><br/>
+        </div>
+    </div>
 </div>
 </body>
 </html>
