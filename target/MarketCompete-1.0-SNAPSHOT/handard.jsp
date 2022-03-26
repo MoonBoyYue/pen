@@ -28,7 +28,7 @@
             border: #5bc0de solid;
         }
         .bx{
-            padding-top: 15px;
+            padding-top: 10px;
             font-size: 20px;
             padding-right: 10px;
         }

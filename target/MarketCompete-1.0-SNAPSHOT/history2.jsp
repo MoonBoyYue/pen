@@ -26,7 +26,7 @@
             border: #5bc0de solid;
         }
         .bx{
-            padding-top: 15px;
+            padding-top: 10px;
             font-size: 20px;
             padding-right: 10px;
         }
@@ -44,7 +44,7 @@
     <div class="row">
         <div>
             <h3 align="center" class="head">
-                我的起源
+                起源——钢笔
             </h3>
             <p class="p1">
             　　&nbsp&nbsp笔的祖先应当是被中国文人誉为“文房四宝”之一的毛笔。数千年来，毛笔为中华民族留下了无数“矫若游龙、飘若惊鸿”的书法珍品。也许是由於欧洲文字的曲线较多，不大适合用柔软的中国毛笔书写，因此，毛笔并末像其他的中国古代发明那样传入西方。欧洲人有自己独特的书写工具——鹅毛笔。<br/>
