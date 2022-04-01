@@ -6,11 +6,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <base href="<%=basePath%>">
     <title>Title</title>
     <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script src="css/bootstrap.min.css"></script>
     <script src="js/bootstrap.min.js"></script>
 
     <script>

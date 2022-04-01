@@ -6,11 +6,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <base href="<%=basePath%>">
     <title>Title</title>
     <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script src="css/bootstrap.min.css"></script>
     <script src="js/bootstrap.min.js"></script>
     <title>我的起源</title>
 
@@ -45,32 +44,32 @@
 <%@include file="header.jsp" %>
 <div class="container">
     <div class="row">
-        <div class="col-md-4 img" align="center"><img src="img/main/img_7.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img_5.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_1.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_2.png" width="300px"></div><br/>
     </div><br/>
     <div class="row">
-        <div class="col-md-4 img" align="center"><img src="img/main/img_7.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img_5.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_3.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_4.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_5.png" width="300px"></div><br/>
     </div><br/>
     <div class="row">
-        <div class="col-md-4 img" align="center"><img src="img/main/img_7.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img_5.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_6.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_7.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_8.png" width="300px"></div><br/>
     </div><br/>
     <div class="row">
-        <div class="col-md-4 img" align="center"><img src="img/main/img_7.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img_5.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_9.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_10.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_11.png" width="300px"></div><br/>
     </div><br/>
     <div class="row">
-        <div class="col-md-4 img" align="center"><img src="img/main/img_7.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img.png" width="300px"></div><br/>
-        <div class="col-md-4 img" align="center"><img src="img/main/img_5.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_12.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_13.png" width="300px"></div><br/>
+        <div class="col-md-4 img" align="center"><img src="img/charactor/img_14.png" width="300px"></div><br/>
     </div><br/><br/>
     <div class="row">
-        <h1 style="font-size: 50px" align="center"><a href="http://www.yac8.com/">欣赏更多...</a></h1>
+        <h1 style="font-size: 50px" align="center"><a href="https://cn.bing.com/images/search?q=%e9%92%a2%e7%ac%94%e5%ad%97%e5%9b%be%e7%89%87%e5%a4%a7%e5%85%a8&qpvt=%e9%92%a2%e7%ac%94%e5%ad%97%e5%9b%be%e7%89%87%e5%a4%a7%e5%85%a8&tsc=ImageHoverTitle&form=IGRE&first=1">欣赏更多...</a></h1>
     </div><br/><br/>
 </div>
 </body>

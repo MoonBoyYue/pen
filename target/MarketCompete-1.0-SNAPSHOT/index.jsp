@@ -6,16 +6,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <base href="<%=basePath%>">
     <title>Title</title>
     <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script src="css/bootstrap.min.css"></script>
     <script src="js/bootstrap.min.js"></script>
 
-    <script>
-
-    </script>
     <style>
         .head{
             width: 100%;
@@ -35,7 +31,7 @@
         .bac{
             /*border: red solid 1px;*/
             height: 350px;
-            background-color:#D3D4DF ;
+            background-color: #7fe0e5;
         }
         .img{
             float: left;
@@ -69,6 +65,36 @@
             <div class="col-md-4 img" align="center"><img src="img/main/img_6.png" width="300px"></div><br/>
             <div class="col-md-4 img" align="center"><img src="img/main/img_1.png" width="300px"></div><br/>
             <div class="col-md-4 img" align="center"><img src="img/main/img_4.png" width="300px"></div><br/>
+        </div><br/><br/>
+        <div class="row">
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_14.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_13.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_12.png" width="300px"></div><br/>
+        </div><br/><br/>
+        <div class="row">
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_14.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_13.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_12.png" width="300px"></div><br/>
+        </div><br/><br/>
+        <div class="row">
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_11.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_11.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_10.png" width="300px"></div><br/>
+        </div><br/><br/>
+        <div class="row">
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_10.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_9.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_9.png" width="300px"></div><br/>
+        </div><br/><br/>
+        <div class="row">
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_8.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_8.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_7.png" width="300px"></div><br/>
+        </div><br/><br/>
+        <div class="row">
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_7.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/charactor/img_3.png" width="300px"></div><br/>
+            <div class="col-md-4 img" align="center"><img src="img/penDraw/img_2.png" width="300px"></div><br/>
         </div><br/><br/>
         <div class="row">
             <h2 style="font-size: 50px" align="center"><a href="https://image.baidu.com/search/index?tn=baiduimage&ct=201326592&lm=-1&cl=2&ie=gb18030&word=%B8%D6%B1%CA%D7%D6%BB%AD%CD%BC%C6%AC%B4%F3%C8%AB&fr=ala&ala=1&alatpl=normal&pos=0&dyTabStr=MCwzLDUsMSw2LDQsNyw4LDIsOQ%3D%3D">欣赏更多...</a></h2>
