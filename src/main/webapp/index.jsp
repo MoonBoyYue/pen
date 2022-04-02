@@ -6,6 +6,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+    <%--看板娘--%>
+    <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
+
     <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
     <base href="<%=basePath%>">
     <title>Title</title>
@@ -20,7 +25,7 @@
             height: 70px;
             text-align: -moz-center;
             background-color: #afd9ee;
-            font-size: xx-large;
+            font-size: xx-large;w
             border: #5bc0de solid;
         }
         .bx{
